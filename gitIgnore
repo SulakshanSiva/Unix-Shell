@@ -1,2 +1,3 @@
 # Ignore the files with the following extensions
 *.pdf
+*.o
